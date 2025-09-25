@@ -16,4 +16,5 @@ public class ServiceRide {
 		response.setBookingId(null);
 		return response;
 	}
+	
 }
